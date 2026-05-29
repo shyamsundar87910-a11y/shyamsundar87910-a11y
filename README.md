@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shyam Sundar Gwala</h1>
+<h1 align="center">Hi 👋, I'm Shyam </h1>
 <h3 align="center">Aspiring Data Analyst from India 🇮🇳</h3>
 
 <p align="center">
