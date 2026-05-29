@@ -2,9 +2,8 @@
 <h3 align="center">Aspiring Data Analyst from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Power+BI+Developer;SQL+Learner;Python+Enthusiast;Data+Analytics+Student">
+  <img src="https://komarev.com/ghpvc/?username=shyamsundar87910-a11y&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
 ---
 
 ## 🚀 About Me
@@ -19,7 +18,11 @@
 ## 🛠 Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
 ---
@@ -38,7 +41,7 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: Add Your LinkedIn Link Here
+-  [LinkedIn](https://www.linkedin.com/in/shyam-sundar-gwala-6674a3326/)
 
 ---
 
