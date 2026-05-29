@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shyamsundar87910-a11y&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="Black Minimal Business Personal Profile Linkedin Banner.png" width="100%" />
 </p>
 ---
 
