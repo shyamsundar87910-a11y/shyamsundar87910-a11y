@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="Black Minimal Business Personal Profile Linkedin Banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/shyamsundar87910-a11y/github-assets/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png" width="100%" />
 </p>
 ---
 
