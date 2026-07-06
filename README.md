@@ -48,6 +48,4 @@
 ## 🚀 Projects
 
 - HR Analytics Dashboard
-- Disaster Management Dashboard
-- Sales Dashboard
-- Power BI Projects
+- spotify music Dashboard
